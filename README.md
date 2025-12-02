@@ -1,4 +1,4 @@
-# 🤖 Project: Junior Embodied-AI
+# 🤖 Project: Multimodal Embodied-AI
 
 ![Status](https://img.shields.io/badge/Status-Active-success) ![Python](https://img.shields.io/badge/Language-Python-blue)
 
